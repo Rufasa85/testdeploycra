@@ -14,7 +14,7 @@ export default function Welcome({ loggedIn, setLoggedIn }) {
           <span role="img" aria-label="tada">
             🎉
           </span>
-          <h3>You are signed in!</h3>
+          <h3>You are signed in! Yay!</h3>
           <button type="button" onClick={() => setLoggedIn(false)}>
             Log out
           </button>
