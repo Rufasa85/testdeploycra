@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/joesreactpractice/static/js/main.f4873b00.js",
-    "index.html": "/joesreactpractice/index.html",
-    "main.f4873b00.js.map": "/joesreactpractice/static/js/main.f4873b00.js.map"
+    "main.js": "/testdeploycra/static/js/main.f4873b00.js",
+    "index.html": "/testdeploycra/index.html",
+    "main.f4873b00.js.map": "/testdeploycra/static/js/main.f4873b00.js.map"
   },
   "entrypoints": [
     "static/js/main.f4873b00.js"
